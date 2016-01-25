@@ -1,4 +1,3 @@
 # gitskills
-hahahhahahha
-2.create a branch
+create a branch
 Creating a new branch is quick & simple.
